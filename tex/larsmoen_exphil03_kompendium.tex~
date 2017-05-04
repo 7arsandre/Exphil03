@@ -1,0 +1,373 @@
+\documentclass[a4paper]{IEEEtran}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc,url}
+\usepackage[norsk]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage[justification=centering]{caption}
+\usepackage{listingsutf8}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage{pdfpages}
+\usepackage{placeins}
+%\usepackage{subcaption}
+\usepackage{color}
+\usepackage[square,numbers]{natbib}
+\usepackage{upgreek}
+\usepackage{float}
+\usepackage{matlab-prettifier}
+%\usepackage[justification=centering]{caption}
+\usepackage{afterpage}
+
+\bibliographystyle{abbrvnat}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+\definecolor{mylilas}{rgb}{255,0,0}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  filecolor=magenta,
+  urlcolor=cyan
+}
+
+\graphicspath{{../bileter/}}
+
+\lstset{
+    language=Matlab,%
+    inputencoding=utf8/latin1,
+    frame = shadowbox,
+    basicstyle=\tiny,
+    %style = Matlab-editor,
+    %basicstyle=\color{red},
+    breaklines=true,%
+    morekeywords={matlab2tikz},
+    keywordstyle=\color{blue},
+    morekeywords=[2]{1}, keywordstyle=[2]{\color{black}},
+    identifierstyle=\color{black},%
+    stringstyle=\color{mylilas},
+    commentstyle=\color{mygreen},%
+    showstringspaces=false,%without this there will be a symbol in the places where there is a space
+    numbers=left,
+    numberstyle={\tiny \color{black}},% size/color of the numbers
+    numbersep=9pt, % this defines how far the numbers are from the text
+    emph=[1]{for,end,break,if,while,return},emphstyle=[1]\color{red}, %some words to emphasise
+    %emph=[2]{word1,word2}, emphstyle=[2]{style},
+}
+
+
+\title{\bigskip EXPHIL03, vår 2017 \\[1cm] KOMPENDIUM \\[5cm]}
+
+\author{Lars André Møen - larsmoen@ulrik.uio.no \\ Universitetet i Oslo }
+\begin{document}
+\maketitle
+\onecolumn
+\tableofcontents
+\clearpage
+\twocolumn
+\onecolumn
+
+\section{Pensum}
+\subsection{Litteratur}
+    \begin{center}
+        \textbf{Pensumlitteratur til examen philosopicum}\bigskip    
+    \end{center}
+    
+    
+    \textbf{Exphil 1 - Filosofi- og vitenskapshistorie}. 2015, Gyldendal Akademiske forlag\bigskip
+ 
+    
+    \textbf{Exphil 2 - Tekster i etikk}. 2015, Gyldendal Akademiske forlag\bigskip
+
+    
+    (Tidlegare utgåver kan også nyttast: \bigskip
+    
+    \textbf{Exphil 1 - Filosofi- og vitenskapshistorie} 6. utgåve 2013.
+    
+     IFIKK, Universitetet i Oslo.
+     
+     ISBN: 978-82-91670-58-4g\bigskip
+
+    
+    \textbf{Exphil 2 - Tekster i etikk}. 5. utgåve, 2013 eller tidlegare.
+    
+     IFIKK, Universitetet i Oslo.
+     
+     ISBN: 978-82-91670-57-7)
+    
+\subsection{Exphil 1}\bigskip
+\begin{center}
+
+\textbf{Exphil 1 pensum}\bigskip
+
+\begin{tabularx}{0.75\textwidth}{| X | X | X |}\hline	
+            Filosof
+            &
+            Kompendium ref.
+            &
+            Kjelde \\ \hline
+            Platon 
+            &
+            \ref{platon}
+            &
+            kap. 3 - 4 og 20
+            \\ \hline
+            Aristoteles 
+            &
+            \ref{aristoteles}
+            &
+            kap. 5 - 8 og 21
+            \\ \hline
+            René Descartes 
+            &
+            \ref{descartes}
+            &
+            kap. 9 - 10 og 22
+            \\ \hline
+            David Hume 
+            &
+            \ref{hume}
+            &
+            kap. 11 - 12 og 23
+            \\ \hline
+            Immanuel Kant 
+            &
+            \ref{kant}
+            & 
+            kap, 13 -16 og 24
+            \\ \hline
+            Simone de Beauvoir 
+            &
+            \ref{beauvoir}
+            & 
+            kap. 17 - 19 og 25 - 27
+            \\ \hline
+    \end{tabularx}
+\end{center}
+
+\subsection{Exphil 2}\bigskip
+\begin{center}
+
+\textbf{Exphil 2 penusm}\bigskip
+
+\begin{tabularx}{0.75\textwidth}{| X | X | X |}\hline	  
+            Tema
+            &
+            Kompendium ref.
+            &
+            Kjelde \\ \hline
+            Relativitisme 
+            &
+            \ref{relativisme}
+            &
+            kap. 1 - 3
+            \\ \hline
+            Utilitarisme 
+            &
+            \ref{utilitarisme}
+            &
+            kap. 5 - 6
+            \\ \hline
+            Deontologi
+            &
+            \ref{deontologi}
+            &
+            kap. 7
+            \\ \hline
+            Dydsetikk 
+            &
+            \ref{dydsetikk}
+            &
+            kap. 8
+            \\ \hline
+            Foster og dyrs moralske status, miljøetikk 
+            &
+            \ref{fdms}
+            & 
+            kap, 9 - 12
+            \\ \hline
+            Feministisk etikk 
+            &
+            \ref{femimisme}
+            & 
+            kap. 4
+            \\ \hline
+    \end{tabularx}
+\end{center}\clearpage
+\twocolumn
+\section{Platon}
+\label{platon}
+
+Født i døde i Athen. Kom tidleg under Sokrates påverknad. Platon brukte store delar av livet sitt til å undervisa. Han var sterkt opptatt av samfunnsproblemer og var til dels også aktiv politiker. Litteraturen hans består for det meste av dialoger (34 stk.) I dialogane er det tydeleg at han er påverka av Sokrates. I desse dialogane, som mange andre, er Sokrates hovudersonen og Platons talerøyr.\bigskip
+
+Dualistisk verdsyn. Motstandar av sofisme.\bigskip
+
+Litteratur:
+\begin{itemize}
+    \item Menon
+    \item Staten
+\end{itemize}\bigskip 
+
+Nøkkelord- og setningar, \textit{Menon}:
+\begin{itemize}
+    \bigskip
+    
+    \item Dyd
+    \item Menon
+    \item Sokrates
+    \item Sokratisk ironi
+    \item Sokrates ser på seg sjølv som jordmor, der han er med på å få samtalepartnaren til å føde innsikt
+    \item Slaveguten
+    \item Gjenerindringslæra (læring kun gjenerindring av tidligere viten.Sjela er nemlig udødelig, og har blitt født mange gongar tidligare)
+    \item Sann/usann oppfatning
+     
+\end{itemize}\bigskip
+
+Nøkkelord- og setningar, \textit{Menon}:
+\begin{itemize}
+    \bigskip
+    
+    \item idealsamfunnet
+    \item rettferdighet
+    \item rettferdig organisering av eit samfunn og rettferdig styremåte
+\end{itemize}
+
+
+
+\section{Aristoteles}
+\label{aristoteles}
+
+Gresk filosof og naturforskar, elev av Platon. Ideer; Den gyldne middelveg, fornuft, logikk, biologi og lidenskap. Grunnleggjande tekstar innan metafysikk, biologi, etikk, politisk filosofi, retorikk, poetikk, psykologi, logikk og vitenskapsfilosofi.
+\bigskip
+
+Litteratur:
+\begin{itemize}
+    \item Metafysikken
+    \item Om sjelen
+    \item Den nikomakiske etikk
+    \item Politikken
+\end{itemize}\bigskip 
+
+
+
+
+\newpage
+\section{René Descartes}
+\label{descartes}
+
+\textit{"Cogito ergo sum"}\bigskip
+
+Ynskte at kunnskapen skulle vera sikkker. Av dette utvikla han teorier som skulle sørga for at ein oppnådde sikker kunnskap. Såleis var det hovudsakleg epistomologiske spørsmål han jobba med.
+
+\bigskip
+Litteratur:
+\begin{itemize}
+    \item Metafysikken
+    \item Meditasjoner over filosofiens grunnlag
+    \item Om metoden
+\end{itemize}\bigskip 
+
+
+\section{David Hume}
+\label{hume}
+
+Ein av dei fremste empiriske filosofane. Han arbeidde hovudsakleg innan epistemologien. Humes erkjennelsesteorie eg også viktig å få med seg. Alle forestillinger me har, må ha blitt bygd på inntrykk me har fått, dvs. ha si opprinning i eitt (eller fleire) inntrykk.
+
+\bigskip
+
+Litteratur:
+\begin{itemize}
+    \item Ein samanfatning av ei nyleg utgitt bok, kalla Ein avhandling om menneskenaturen, osv
+    \item Ein avhandling om menneskenaturen
+\end{itemize}\bigskip 
+
+
+\section{Immanuel Kant}
+\label{kant}
+
+Tysk filosof, 1724-1804. Hovudinteresser var epistomologi, eikk, metafysikk og logikk. Hans ideer til filosofien var t.d Det \textbf{katagoriske imperativ} og \textbf{transcendental idealisme}.\bigskip
+
+Kant er kjent som ein pliktetikar.
+\bigskip
+
+Litteratur:
+\begin{itemize}
+    \item Kritikk av den rene fornuft
+    \item Grunnlegging til moralens metafysikk
+    \item Moralens metafysikk
+    \item Antropologi i pragmatisk perspektiv
+\end{itemize}\bigskip 
+
+
+\section{Simone de Beauvoir}
+\label{beauvoir}
+
+Fransk filosof og forfattar. 1908-1986. Feminist. 1949; Le deuxième Sexe (det annet kjønn). 
+\clearpage
+\section{Relativisme}
+\label{relativisme}
+Er motstand mot tanken om at vitenskapene kan og bør tilstrebe objektivt. Relativistene meinar at det ikkje fins standardar for objektivitet, sannhet eller rasjonalitet som er felles på tvers av forskjellige kulturer og historiske perioder.
+\bigskip
+
+Meiningsrelativisme\bigskip
+\begin{itemize}
+    \item Forenlig med absolutisme
+    \item Det fins ulike meiningar om handlingstyper som er enten rett eller galt: Det som er rett for ein person, trenger ikkje å vera rett for ein annan person.
+\end{itemize}\bigskip
+
+Konvensjonalisme\bigskip
+\begin{itemize}
+    \item Forenlig med absolutisme
+    \item Ein handling er moralsk rett viss og berre viss den er tillatt ifølge samfunnets konvensjoner.
+\end{itemize}\bigskip
+
+Begrepsrelativisme\bigskip
+\begin{itemize}
+    \item Har ikkje nokko klart svar på kva som gjer ein handling rett, me må samanlikna. Kva som gjer ein handling rett er relativt til personens interesser, verdie og det moralske systemet han trur på.
+\end{itemize}
+
+\bigskip
+\section{Utilitarisme}
+\label{utilitarisme}
+
+Utilitarismen er moralfilosofi, ein filosofi for moralske problemstillinger, som prøver å formulera etiske og sosiale problemstillingar på ein slik måte at det tilfredstiller empiriske krav.
+\bigskip
+
+Utilitarismen kort oppsumert:\bigskip
+\begin{itemize}
+    \item Kva som avgjer om ei handling eller ei beslutning frå eit moralsk synspunkt er god eller ikkje, er kva for konsekvenser den har.
+    \item Det er viktig når me skal vurdere konsekvensene som er dårlege eller ikkje, at ein tar med i kva for grad av lykke eller ulykke dette medfører.
+    \item Når me skal vurdere summen av lykke eller ulykke så tel alle sansende, levende vesener likt. 
+\end{itemize}
+
+Regelutilitarisme i motsetnad til utilitarisme; Eit visst regelsett du ikkje skal overgå.
+\bigskip
+
+\newpage
+\section{Deontolgi}
+\label{deontologi}
+
+Deontologi er ein teori som seier at val skal baseres på regler eller moralske prinsipper, og at der 'riktiga valet' veg tyngre enn resultatane.
+
+Deontologi er pliktetikk. I dette ligg det at det må finnes abolutte regler me vil vera pliktige å overhalda. 
+\section{Dydsetikk}
+\label{dydsetikk}
+
+
+\section{Foster og dyrs moralske status, miljøetikk}
+\label{fdms}
+
+
+\section{Feministisk etikk}
+\label{femimisme}
+
+\end{document}
