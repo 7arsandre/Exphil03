@@ -68,7 +68,7 @@
 
 \title{\bigskip EXPHIL03, vår 2017 \\[1cm] KOMPENDIUM \\[5cm]}
 
-\author{Torleif Skår - github.com/tskaar\\Lars André Møen - github.com/7arsandre }
+\author{Lars André Møen - github.com/7arsandre }
 \begin{document}
 \maketitle
 \onecolumn
@@ -227,11 +227,13 @@ Sentralt ang. \textit{Platon}:
     \item Sokrates var hans læremeister
     \item Sokratisk ironi
     \item Sokrates ser på seg sjølv som jordmor, der han er med på å få samtalepartnaren til å føde innsikt
+    \item Slaveguten (frå teksten Menon)
     \item Gjenerindringslæra (læring kun gjenerindring av tidligere viten.Sjela er nemlig udødelig, og har blitt født mange gongar tidligare)
     \item Sann/usann oppfatning
     \item Den udødelige sjel
     \item Fornuft er betre kilde til kunnskap enn fornuft
     \item Meiner staten bør styres av filosofene (frå teksten Staten)
+    \item Idealsamfunnet (frå teksten Staten)
     '\item Rasjonalist (\ref{rasjonalisme})
      
 \end{itemize}\bigskip
@@ -456,7 +458,7 @@ Er motstand mot tanken om at vitenskapene kan og bør tilstrebe objektivt. Relat
 
 Meiningsrelativisme\bigskip
 \begin{itemize}
-    \item Forenlig med absolutisme (absolutisme; det finnes moralske kriterium som til ei kvar til gjelder for alle menneske. TL;DR utilitarisme)
+    \item Forenlig med absolutisme
     \item Det fins ulike meiningar om handlingstyper som er enten rett eller galt: Det som er rett for ein person, trenger ikkje å vera rett for ein annan person.
 \end{itemize}\bigskip
 
@@ -468,7 +470,7 @@ Konvensjonalisme\bigskip
 
 Begrepsrelativisme\bigskip
 \begin{itemize}
-    \item Har ikkje noko klart svar på kva som gjer ein handling rett, me må samanlikna. Kva som gjer ein handling rett er relativt til personens interesser, verdier og det moralske systemet han trur på.
+    \item Har ikkje nokko klart svar på kva som gjer ein handling rett, me må samanlikna. Kva som gjer ein handling rett er relativt til personens interesser, verdie og det moralske systemet han trur på.
 \end{itemize}
 
 \bigskip
@@ -486,6 +488,7 @@ Utilitarismen kort oppsumert:\bigskip
 \end{itemize}\bigskip
 
 Regelutilitarisme i motsetnad til utilitarisme; Eit visst regelsett du ikkje skal overgå.
+\bigskip
 
 \bigskip
 \section{Deontolgi}
@@ -494,12 +497,6 @@ Regelutilitarisme i motsetnad til utilitarisme; Eit visst regelsett du ikkje ska
 Deontologi er ein teori som seier at val skal baseres på regler eller moralske prinsipper, og at der 'riktiga valet' veg tyngre enn resultatane.
 
 Deontologi er pliktetikk. I dette ligg det at det må finnes abolutte regler me vil vera pliktige å overhalda. 
-
-Deontologi er ikkje ein einheitleg moralteori, men består av ei gruppe teorier som deler nokon av dei viktige kjenneteikna. Immanuel Kant er den mest kjente og innflytelsesrike deontologen.
-
-Deontologer, pliktetikere, deler ein svært sentral grunntanke. Det er at ein ikkje skal nytta seg av andre personer for å kun oppnå eige gode. Denne ideen baserer seg på at personer innehar eit sett med rettigheter som ikkje skal krenkast. 
-
-Eit døme på tankesettet til deontologane er at sjølv om me ikkje skal skada ein person, så kan det i nokon tilfeller vera tillat å nettop gjere det. 
 \section{Dydsetikk}
 \label{dydsetikk}\bigskip
 
@@ -511,10 +508,7 @@ Dei to andre leiande teoriane innan normativ etikk, deontologi og utilitarisme, 
 
 Dydsetikk fokuserer derimot på den handlendes karakter heller enn reglar for riktig atferd. Dydsetikken vil typisk meina at det ikkje lar seg gjera å firmulera nokon allmenngyldig regel som kan ta hensyn til alle forhold som kan vera moralsk viktig i dei enkelte situasjoner. Gjennom erfaring er det mogleg å opparbeida seg ei evne til følsomhet ovanfor korleis ulike forhold kan vera moralsk relevant i ulike situasjoner.\bigskip
 
-Dydsetikk er ein del av den normative etikken. I motsetnad til utilitarismen og deontologien, som forsøker å definere allmenne prinsipper om kva som er riktige og gale holdninger. Så forsøker dydsetikken heller å fokusera den den handlenes karakter. Dydsetikarane vil typisk meina at det ikkje vil vera mogleg å formulera noko allmenngyldig regel som kan ta forhold til alle moralske dilemmaer i ein gitt situasjon. Dei meiner vidare at moral er noko som vert lært gjennom erfaring. Gjennom erfaring er det mogleg å opparbeide seg ei evne til følsomhet ovanfor korleis ulike forhold kan vera moralsk relevante i ulike situasjoner. 
-
 Dydsetikara vil også meina at dei skil seg frå deontologer og utilitaristar ved at dydsetikken ikkje berre er ut etter kva som utgjer ei riktig handling. Moralske vurderinger må fokusera vel så mykje på korlei ein person bør vera, og på kva holdninger som ligger tuk grunn for ein persons atferd. \bigskip
-
 
 \section{Foster og dyrs moralske status, miljøetikk}
 \label{fdms}\bigskip
@@ -537,25 +531,6 @@ Feministisk etikk baserer seg på eit sterkt ynskje om å få slutt på undertry
 \label{empirisme}\bigskip
 
 \textit{Empirisme, erfaringslæra, erfaringsfilosofi; læra om at alle påstandar om verkelegheita skal ha sitt grunnlag i erfaringen og at den er vår eineste kunnskapskjelde. Motsatt: rasjonalisme. Viss erfaringen tenkes utelukkande som sansing, kalles empirismen for sensualisme.}
-\section{Ontologi}
-\label{ontolog}\bigskip
-
-\textit{Er studiet om kva som eksisterer, og former for eksistens.}
-\bigskip
-
-\section{Normativ etikk}
-\label{normativetikk}\bigskip
-
-Normativ etikk, er ein del av etikken som prøver å ta standpunkt til kva som er rett og galt, godt og ondt. Normativ etikk er ein av etikkens tre hovudgreiner, saman med metafysikken og anvendt etikk. Innanfor vestleg filosofi har normativ etikk fått viktige bidrag frå Aristoteles og Platon (dydsetikk, den gyldne middelveg), David Hume (Humes lov), Immanuel Kant (Det kategoriske imperativ, pliktetikk), Jeremy Bentham og Jon Stuart Mill (utilitarisme)
-\bigskip
-
-\section{Det kategoriske imperativ}
-\label{detkategoriskeimperativ}\bigskip
-
-Det kategoriske imperativ er eit prinsipp for moralsk handling formulert av Immanuel Kant i verket \textit{Grunnleggingen til moralens metafysikk}.\bigskip
-
-Kant forsøker i dette verket å fastsetja "Moralens øvste prinsipp". Kant hevda at det krevdes universell gyldighet i dei moralske pliktene, ein moralsk plikt for ein person må også naudsynt også vera ein moralsk plikt for alle andre også. Dette vil kort sagt seia at ein må velja sine prinsipper for handlinger etter kva for prinsipper ein vil at andre skal velja for sine. TL;DR den gyldne middelveg: "Alt dere vil at andre skal gjøre mot dere, skal også dere gjøre mot dem." (Kristendommen)
-
 
 \bibliography{platon_kilder}
 \end{document}

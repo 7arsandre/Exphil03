@@ -27,4 +27,7 @@
 \contentsline {section}{\numberline {XIII}Feministisk etikk}{7}{section.13}
 \contentsline {section}{\numberline {XIV}Rasjonalisme}{7}{section.14}
 \contentsline {section}{\numberline {XV}Empirisme}{7}{section.15}
+\contentsline {section}{\numberline {XVI}Ontologi}{7}{section.16}
+\contentsline {section}{\numberline {XVII}Normativ etikk}{7}{section.17}
+\contentsline {section}{\numberline {XVIII}Det kategoriske imperativ}{7}{section.18}
 \contentsline {section}{Bibliografi}{7}{section*.2}
