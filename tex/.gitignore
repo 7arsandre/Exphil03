@@ -1,3 +1,4 @@
+#.tex ignore files
 *aux
 *bbl
 *dvi
@@ -8,4 +9,4 @@
 *gz 
 *toc 
 *~
-
+*blg
